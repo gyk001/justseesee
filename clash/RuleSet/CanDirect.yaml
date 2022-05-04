@@ -1,0 +1,7 @@
+# 可以直连的境外网站
+payload:
+  - DOMAIN-SUFFIX,yisufuyou.com
+  # oracle 云
+  - DOMAIN-SUFFIX,cloud.oracle.com
+  # blinkload的代理
+  - DOMAIN-SUFFIX,6in4.dev
